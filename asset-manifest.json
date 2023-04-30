@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movies-Udemy/static/css/main.eee15432.css",
-    "main.js": "/movies-Udemy/static/js/main.959e66ff.js",
+    "main.js": "/movies-Udemy/static/js/main.d34fd9d2.js",
     "index.html": "/movies-Udemy/index.html",
     "main.eee15432.css.map": "/movies-Udemy/static/css/main.eee15432.css.map",
-    "main.959e66ff.js.map": "/movies-Udemy/static/js/main.959e66ff.js.map"
+    "main.d34fd9d2.js.map": "/movies-Udemy/static/js/main.d34fd9d2.js.map"
   },
   "entrypoints": [
     "static/css/main.eee15432.css",
-    "static/js/main.959e66ff.js"
+    "static/js/main.d34fd9d2.js"
   ]
 }
